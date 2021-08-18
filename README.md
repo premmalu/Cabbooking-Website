@@ -12,26 +12,19 @@
 
  # <a name = "#description"></a>Description
  * "P. PREM" <premmalup@gmail.com>
-  * This is a **student website**. Where a student can register his/her details , login and view his/her details. 
-  An admin page where an admin can register and login 
-  * This is connected to mysql database where the details are stored . This can be hosted locally 
-  in xampp software . 
-  * This Websites consists of main page , login page, registration page, admin page.
-  * **Main Page** - This page consits of two options of student and admin . Each option is linked to respective
-                    login pages .
+  * I will update.
+  * I will update . 
+  * I will update.
+  * **Main Page** - I will update .
                     
                     
-  * **Login Page** - This page consist of two input fields, submit button , register option, forget Password option
-                     In case of new user he/she can register using the respective registration form . After login students
-                     will be taken to their respective profile details page where they can see their details .
+  * **Login Page** - I will update .
                      
                      
-  * **Admin Page** - This page is for admins. Using this page they can modify student details if there
-                     is a correction in it . They can accept or remove newly registered students .
+  * **Admin Page** - I will update .
                      
         
-  * **Forget Password** - There is a forget password option in both the login pages to reset the password .
-                          This is done through email . 
+  * **Forget Password** - I will update . 
   
 
  # <a name = "#requirements"></a>Requirements

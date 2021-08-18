@@ -2,7 +2,7 @@
 #!C:/Users/YourfolderName/AppData/Local/Programs/Python/Python39/python.exe
 
 print("Content-type: text/html \r\n\r\n")
-# impotring the common Gateway interface,sql,cgi trackback.
+# importing the common Gateway interface,sql,cgi trackback.
 import cgi, pymysql, cgitb;
 
 cgitb.enable()

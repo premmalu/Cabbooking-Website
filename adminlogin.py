@@ -1,4 +1,5 @@
-#!C:/Users/prem/AppData/Local/Programs/Python/Python39/python.exe
+  
+#!C:/Users/YourfolderName/AppData/Local/Programs/Python/Python39/python.exe
 
 print("Content-type: text/html \r\n\r\n")
 # impotring the common Gateway interface,sql,cgi trackback.

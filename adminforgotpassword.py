@@ -1,6 +1,6 @@
 #!C:/Users/YourName/AppData/Local/Programs/Python/Python39/python.exe
 print("Content-type: text/html\n")
-# impotring the common Gateway interface,sql,cgi trackback.
+# impoting the common Gateway interface,sql,cgi trackback.
 import cgi,pymysql,cgitb;cgitb.enable()
 # this is HTML and CSS.
 print("""

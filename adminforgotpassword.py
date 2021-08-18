@@ -1,4 +1,4 @@
-#!C:/Users/YourName/AppData/Local/Programs/Python/Python39/python.exe
+#!C:/Users/YourfolderName/AppData/Local/Programs/Python/Python39/python.exe
 print("Content-type: text/html\n")
 # impoting the common Gateway interface,sql,cgi trackback.
 import cgi,pymysql,cgitb;cgitb.enable()

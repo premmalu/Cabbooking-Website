@@ -11,20 +11,20 @@
 
 
  # <a name = "#description"></a>Description
- * "P. PREM" <premmalup@gmail.com>
-  * I will update.
-  * I will update . 
-  * I will update.
-  * **Main Page** - I will update .
+ * "COMFI RIDES".
+  * This is a cab booking/cab rental website.
+  * In this website a person can provide his car for rent and also another person can book his cab. 
+  * This is website is connected to mysql database where the details of lessor and lessee are stored.
                     
-                    
-  * **Login Page** - I will update .
+  * **Main Page**-Website consite of Three options Sharer,Clients and ADMIN .Each option is linked to respective login pages.  
+               
+  * **Login Page** - This page consist of two input fields to validate user input and a sudmit button a register option also forget password options.
                      
                      
-  * **Admin Page** - I will update .
+  * **Admin Page** -  This page is only for admin who can manage lessor lessee details and also verify their details.
                      
         
-  * **Forget Password** - I will update . 
+  * **Forget Password** - There is a forgot password option in both loggin pages to know their password via email. 
   
 
  # <a name = "#requirements"></a>Requirements
